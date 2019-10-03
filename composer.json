@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/CommerceBees_CustomerGroupRestriction_v1",
+    "name": "OpenMageModuleFostering\/CommerceBees_CustomerGroupRestriction_v1",
     "type": "magento-module",
     "license": "GPL-v3",
     "homepage": "",
     "description": "Customer group restriction is a free Magento module to restrict some customer groups from buying certain products",
     "authors": [
-    {
-        "name": "Commerce Bees",
-        "email": "support@commercebees.com"
-    }
-],
+        {
+            "name": "Commerce Bees",
+            "email": "support@commercebees.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
