@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Customer group restriction is a free Magento module to restrict some customer groups from buying certain products
